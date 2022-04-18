@@ -1,6 +1,5 @@
 # Práctico 1: Manejo de Colores 
 
-### Nota: Tomar como base el archivo Clase 1 – Template.html 
 
 ** 1.	Repaso Javascript: Definir una matriz de 100 elementos x 100 elementos y completarla con valores enteros random, y resuelva los siguientes incisos: 
 
